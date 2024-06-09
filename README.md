@@ -1,4 +1,4 @@
-# NEWS APPLICTION
+# Newsify- Current Events News App Development
 Created a news android application using NEWS API, recycler view, retrofit library, Picasso and java(Frontend and backend)
 
 # Note
